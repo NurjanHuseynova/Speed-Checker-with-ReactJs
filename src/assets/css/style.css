@@ -1,0 +1,28 @@
+
+
+.scrolldown  {
+  height: 450px;
+
+  overflow-y: scroll;
+
+  overflow-x: hidden;
+}
+
+th{
+  text-align: center;
+}
+td{
+  text-align: center;
+}
+
+.unselectable {
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+ 
+}
+.card{
+  height:575px
+}
